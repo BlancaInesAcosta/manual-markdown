@@ -20,6 +20,9 @@ y para el titulo 2
 
 colocar el título y en la siguiente linea el signo "--" seguidos al mismo tamaño del título.
 
+titulo 2
+---------
+
 # Enlaces
 
 Enlace es un texto o una imagen que al hacer click el cursor se forma una manito y nos lleva a otraa página u otra parte de la página.
