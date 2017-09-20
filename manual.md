@@ -10,6 +10,8 @@ Los títulos de un texto pueden ser de varios tamaños y se hacen colocando el s
 ###### título 6 tiene 6 veces el signo numeral "######"
 
 Otra forma de hacer h1 es:
-colocar el título y en la siguiente linea el signo "=" seguidos al mmismo tamaño del título
+
+colocar el título y en la siguiente linea el signo "=" seguidos al mismo tamaño del título.
+
 Este es un título 
 =======
