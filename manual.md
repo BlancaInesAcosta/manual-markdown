@@ -27,4 +27,5 @@ titulo 2
 
 Enlace es un texto o una imagen que al hacer click el cursor se forma una manito y nos lleva a otraa página u otra parte de la página.
 Y se hace asi:
+
 ####Encabezado 1 {#id}
