@@ -25,7 +25,11 @@ titulo 2
 
 # Enlaces
 
-Enlace es un texto o una imagen que al hacer click el cursor se forma una manito y nos lleva a otraa página u otra parte de la página.
+Enlace es un texto o una imagen que al pasar el cursor por encima se forma una manita y al hacer clic sobre ella nos lleva a otra página o a otra parte de la misma página.
+
+Y se hace asi:
+Enlace interno es cuando nos lleva a la misma página.
+
 Y se hace asi:
 
 ####Encabezado 1 {#id}
