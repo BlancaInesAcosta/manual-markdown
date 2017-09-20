@@ -8,3 +8,5 @@ Los títulos o encabezamiento de Html se hacen colocando el signo # antes del te
 ####   título 4 tiene 4 "####"
 #####  título 5 tiene 1 "#####"
 ###### título 6 tiene 1 "######"
+
+Otra forma de hacer h1 y h2 es
