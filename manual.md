@@ -1,6 +1,6 @@
 # Títulos
 
-Los títulos de un texto pueden ser de varios tamaños y se hacen colocando el signo "#" antes del texto
+Los títulos de un texto pueden ser de varios tamaños y se hacen colocando el signo numeral "#" antes del texto
 
 #      título 1 tiene 1 vez el signo numeral "#"
 ##     título 2 tiene 2 veces el signo numeral "##"
