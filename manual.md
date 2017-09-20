@@ -9,9 +9,15 @@ Los títulos de un texto pueden ser de varios tamaños y se hacen colocando el s
 #####  título 5 tiene 5 veces el signo numeral "#####"
 ###### título 6 tiene 6 veces el signo numeral "######"
 
-Otra forma de hacer h1 es:
+##Otra forma de hacer h1 es:
 
 colocar el título y en la siguiente linea el signo "=" seguidos al mismo tamaño del título.
 
 Este es un título 
 =======
+
+# Enlaces
+
+Enlace es un texto o una imagen que al hacer click el cursor se forma una manito y nos lleva a otraa página u otra parte de la página.
+Y se hace asi:
+####Encabezado 1 {#id}
