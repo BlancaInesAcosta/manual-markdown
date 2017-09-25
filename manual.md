@@ -37,6 +37,10 @@ Enlace es un texto o una imagen que al pasar el cursor por encima se forma una m
 
 Hay dos clases de enlaces:
 
-***Enlace interno*** es cuando nos lleva a otra parte de la misma página.
+***Enlace interno*** es cuando nos lleva a otra parte de la misma página. POr ejemplo para hacer una tabla de contenidos.
+
+
+Se coloca el titulo que vamos a utilizar como enlace y seguido de llaves {} 
+### Contenido {#Contenido}
 
 ####Encabezado 1 {#id}
