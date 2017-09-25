@@ -13,6 +13,10 @@ Los títulos de un texto pueden ser de varios tamaños y se hacen colocando el s
 
 colocar el título y en la siguiente linea el signo "=" seguidos al mismo tamaño del título.
 
+Este es un titulo 1
+
+===================
+
 Este es un título 1
 =======
 
