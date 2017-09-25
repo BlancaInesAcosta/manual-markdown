@@ -15,7 +15,7 @@ colocar el título y en la siguiente linea el signo "=" seguidos al mismo tamañ
 
 Este es un titulo 1
 
-===================
+===============
 
 Este es un título 1
 =======
