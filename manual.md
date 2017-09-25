@@ -37,6 +37,6 @@ Enlace es un texto o una imagen que al pasar el cursor por encima se forma una m
 
 Hay dos clases de enlaces:
 
-Enlace interno es cuando nos lleva a otra parte de la misma página.
+*Enlace interno* es cuando nos lleva a otra parte de la misma página.
 
 ####Encabezado 1 {#id}
