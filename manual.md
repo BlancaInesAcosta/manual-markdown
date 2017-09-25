@@ -35,6 +35,8 @@ titulo 2
 
 Enlace es un texto o una imagen que al pasar el cursor por encima se forma una manita y al hacer clic sobre ella nos lleva a otra página o a otra parte de la misma página.
 
-Enlace interno es cuando nos lleva a la misma página.
+Hay dos clases de enlaces:
+
+Enlace interno es cuando nos lleva a otra parte de la misma página.
 
 ####Encabezado 1 {#id}
