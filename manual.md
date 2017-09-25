@@ -20,9 +20,13 @@ Este es un titulo 1
 Este es un título 1
 =======
 
-y para el titulo 2 
+## para el titulo 2 
 
 colocar el título y en la siguiente linea el signo "--" seguidos al mismo tamaño del título.
+
+titulo 2
+
+---------
 
 titulo 2
 ---------
