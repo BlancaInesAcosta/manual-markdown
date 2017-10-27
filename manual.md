@@ -83,6 +83,10 @@ Para colocar imagenes en nuestra página debemos utilizar primero el signo de ad
 
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
   
-  > sobre
-  
+ ## Citas 
+Las citas podemos crearlas con el signo mayor que (>) al inicio de la línea.
+
+Pablo Picasso
+
+> El amor es la mayor frescura en la vida.  
   
