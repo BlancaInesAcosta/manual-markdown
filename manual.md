@@ -1,3 +1,9 @@
+# Markdown
+
+Markdown es un sistema desarrollado por John Gruber y Aaron Swartz  con el fin de simplificar formatos y hacer mas facil la escritura de textos.
+Los textos en markdown pueden ser exportados a html con facilidad.
+Para convertir un texto en markdown a html basta con 
+
 ## Titulos
 Los titulos se hacen de varios tamaños 
 el tamaño mas grande es con un signo numeral antes del texto, con dos signos es mas pequeño y asi sucesivamente hasta seis signos numeral.
@@ -58,4 +64,7 @@ Para hacer sublistas se hacen las lista y las sublistas se indentan mas a la der
 + niñas
   + Aura
   + Sofia
+  
+  
+  
   
