@@ -73,13 +73,13 @@ Para hacer sublistas se hacen las lista y las sublistas se indentan mas a la der
 
 **Enlace interno** es cuando nos lleva a otra parte de la misma página. 
 **Enlace externo** es cuando nos lleva a otra página.
-Rodeamos a la palabra a linkear entre corchetes ({}), y la url en cuestión, entre paréntesis (()).
+Rodeamos al texto para mostrar el vínculo entre corchetes ({}), y la url del enlace entre paréntesis (()).
 
 [Google](https://www.google.com.co/)
 
 ## Imagenes
 
-Paara colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) luego el signo parentesis cuadrado ([]) en este puede ir el nombre de la imagen o puede quedar en blanco y finalmente el (()) en el cual se anota la url de la imagen.
+Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) luego el signo parentesis cuadrado ([]) en este puede ir el nombre de la imagen o puede quedar en blanco y finalmente el (()) en el cual se anota la url de la imagen.
 
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
   
