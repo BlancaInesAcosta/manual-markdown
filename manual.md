@@ -84,7 +84,8 @@ Para colocar imagenes en nuestra página debemos utilizar primero el signo de ad
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
   
  ## Citas 
-Las citas podemos crearlas con el signo mayor que (>) al inicio de la línea.
+Las citas podemos crearlas con el signo mayor que (>) al inicio de cada línea de la cita. 
+Las citas en bloque deben comenzar y terminar con una línea en blanco.
 
 Pablo Picasso
 
