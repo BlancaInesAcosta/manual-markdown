@@ -54,7 +54,7 @@ Para las listas numeradas se coloca el numero, un punto y un espacio.
 2. Amparito
 3. Abby
 
-## Sublistas
+## Listas anidadas
 Para hacer sublistas se hacen las lista y las sublistas se indentan mas a la derecha.
 
 ### Danzadores
@@ -83,6 +83,6 @@ Para colocar imagenes en nuestra página debemos utilizar primero el signo de ad
 
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
   
-  
+  > sobre
   
   
