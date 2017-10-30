@@ -103,6 +103,7 @@ Primero creamos la imagen "![]()" luego la rodeamos como vínculo "[![](url)](ur
 
  ## Citas en bloque 
 Las citas podemos crearlas con el signo mayor que (>) al inicio de cada línea de la cita. 
+Podemos crear un bloque qnnidado aumentando un signo (>).
 Las citas en bloque deben comenzar y terminar con una línea en blanco.
 
 Pablo Picasso
