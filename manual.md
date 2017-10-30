@@ -92,7 +92,8 @@ Para colocar imagenes en nuestra página debemos utilizar primero el signo de ad
 el signo parentesis cuadrado ([]) en este puede ir el nombre de la imagen o puede quedar en blanco 
 y finalmente el parentesis (()) en el cual se anota la url de la imagen.
 
-![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
+![paisaje]
+(https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
 
 ## Imagenes también con vínculo
 
