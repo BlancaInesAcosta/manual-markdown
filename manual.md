@@ -109,5 +109,5 @@ Pablo Picasso
 
 > El amor es la mayor frescura en la vida.  
   
-Primero creamos la imagen ““ luego la rodeamos como vínculo “ “
+Primero creamos la imagen “![](url)“ luego la rodeamos como vínculo “[![](url de la imagen)](url del enlace) “
 
