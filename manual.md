@@ -39,7 +39,7 @@ ___Esto es negrita y cursiva con tres rayas al piso a cada lado.___
 
 *Cursiva con un asterisco a cada lado*
 
-_Cursiva con una raya aL piso_
+_Cursiva con una raya al piso_
 
 *Italicas* se hace con un asterisco a cada lado del  texto.
 
