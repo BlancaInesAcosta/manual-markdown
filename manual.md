@@ -86,6 +86,13 @@ y la url del enlace entre paréntesis (()).
 
 [Google](https://www.google.com.co/)
 
+## Imagenes también con vínculo
+
+Primero creamos la imagen "![]()" luego la rodeamos como vínculo "[![](url)](url) "
+[![]()]()
+
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)
+
 ## Imagenes
 
 Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) luego 
