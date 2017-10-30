@@ -112,5 +112,5 @@ Pablo Picasso
 >> este es un segundo nivel
 >>> y este un tercer nivel
   
-Primero creamos la imagen “![](url)“ luego la rodeamos como vínculo “[![](url de la imagen)](url del enlace) “
+Inline `code` has `back-ticks around` it.
 
