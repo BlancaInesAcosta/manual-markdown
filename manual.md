@@ -29,7 +29,9 @@ titulo 2
 
 **Negritas** se hace con dos signos asterisco al comienzo de la palabra y dos al final de la palabra
 
-*Italicas* se hace con un asterisco a cada lado de la palabra.
+**Italicas** se hace con un asterisco a cada lado del  texto.
+
+*Esta es italica*
 
 ## Listas 
 
@@ -47,7 +49,7 @@ Para hacer listas no numeradas podemos utilizar los signos +, -, *
 * Ruth
 * Vladimir
 
-## Lista numerada
+## Listas numeradas
 Para las listas numeradas se coloca el numero, un punto y un espacio.
 
 1. Leti
@@ -55,7 +57,8 @@ Para las listas numeradas se coloca el numero, un punto y un espacio.
 3. Abby
 
 ## Listas anidadas
-Para hacer sublistas se hacen las lista y las sublistas se indentan mas a la derecha.
+Para hacer listas anidadas se hacen las lista y las istas anidadas se indentan con dos espacios mas a la derecha.
+Estas listas pueden ser numeradas o no.
 
 ### Danzadores
 + niños
@@ -73,16 +76,17 @@ Para hacer sublistas se hacen las lista y las sublistas se indentan mas a la der
 
 **Enlace interno** es cuando nos lleva a otra parte de la misma página. 
 **Enlace externo** es cuando nos lleva a otra página.
-Rodeamos al texto para mostrar el vínculo entre corchetes ({}), y la url del enlace entre paréntesis (()).
+Para crear un enlace externo rodeamos el texto para mostrar el vínculo entre corchetes ({}), y la url del enlace entre paréntesis (()).
 
 [Google](https://www.google.com.co/)
 
 ## Imagenes
 
-Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) luego el signo parentesis cuadrado ([]) en este puede ir el nombre de la imagen o puede quedar en blanco y finalmente el (()) en el cual se anota la url de la imagen.
+Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) luego el signo parentesis cuadrado ([]) en este puede ir el nombre de la imagen o puede quedar en blanco y finalmente el parentesis (()) en el cual se anota la url de la imagen.
 
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
-  
+
+
  ## Citas 
 Las citas podemos crearlas con el signo mayor que (>) al inicio de cada línea de la cita. 
 Las citas en bloque deben comenzar y terminar con una línea en blanco.
