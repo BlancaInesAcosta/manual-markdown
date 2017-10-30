@@ -86,13 +86,6 @@ y la url del enlace entre paréntesis (()).
 
 [Google](https://www.google.com.co/)
 
-## Imagenes también con vínculo
-
-Primero creamos la imagen "![]()" luego la rodeamos como vínculo "[![](url)](url) "
-[![]()]()
-
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)
-
 ## Imagenes
 
 Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) luego 
@@ -101,6 +94,12 @@ y finalmente el parentesis (()) en el cual se anota la url de la imagen.
 
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1)
 
+## Imagenes también con vínculo
+
+Primero creamos la imagen "![]()" luego la rodeamos como vínculo "[![](url)](url) "
+[![]()]()
+
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)
 
  ## Citas en bloque 
 Las citas podemos crearlas con el signo mayor que (>) al inicio de cada línea de la cita. 
