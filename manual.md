@@ -103,5 +103,5 @@ Pablo Picasso
 
 > El amor es la mayor frescura en la vida.  
   
-Primero creamos la imagen ““ luego la rodeamos com vínculo “ “
+Primero creamos la imagen ““ luego la rodeamos como vínculo “ “
 
