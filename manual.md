@@ -29,11 +29,21 @@ para el titulo 2 colocar el título y en la siguiente linea el signo "--" seguid
 titulo 2
 --------
 
-**Negritas** se hace con dos signos asterisco al comienzo de la palabra y dos al final de la palabra
+**Negritas** se hace con dos signos asterisco al comienzo de la palabra y dos al final de la palabra.
 
-**Italicas** se hace con un asterisco a cada lado del  texto.
+__Negrita con 2 rayas al piso__
 
-*Esta es italica*
+***Esto es negrita y cursiva con tres asteriscos a cada lado***
+
+___Esto es negrita y cursiva con tres rayas al piso a cada lado.___
+
+*Cursiva con un asterisco a cada lado*
+
+_Cursiva con una raya aL piso_
+
+*Italicas* se hace con un asterisco a cada lado del  texto.
+
+_Italica_ se hace también rodeando la palabra con dos raya al piso
 
 ## Listas 
 
@@ -88,9 +98,9 @@ y la url del enlace entre paréntesis (()).
 
 ## Imagenes
 
-Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) luego 
-el signo parentesis cuadrado ([]) en este puede ir el nombre de la imagen o puede quedar en blanco 
-y finalmente el parentesis (()) en el cual se anota la url de la imagen.
+Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) 
+luego el signo parentesis cuadrado ([]) y finalmente el (()) en el cual se anota la url de la 
+imagen luego se deja un espacio y entre comillas ("") el nombre o el titulo de la imagen.
 
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1 "paisaje")
 
