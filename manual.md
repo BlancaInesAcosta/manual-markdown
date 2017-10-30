@@ -112,5 +112,5 @@ Pablo Picasso
 >> este es un segundo nivel
 >>> y este un tercer nivel
   
-Inline `code` has `back-ticks around` it.
+## Código en linea `code` has `back-ticks around` it.
 
