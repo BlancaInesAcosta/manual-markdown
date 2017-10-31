@@ -121,6 +121,30 @@ Pablo Picasso
 > El amor es la mayor frescura en la vida.  
 >> este es un segundo nivel
 >>> y este un tercer nivel
+
+## Bloques de código
+
+Estos bloques de codigo van entre
+
+```
+   bloque de codigo
+```
+
+## Pie de página
+
+Son comentarios y aclaraciones que se hacen. 
+Se puede agregar un texto de pie de página.[^2]
+
+[^2]: Este es el pie de página.
+
+## Líneas
+
+************ esta línea se forma de asteriscos 		
+
+------------ esta línea se forma de  giones			
+
+============ esta línea se forma de signos igual seguidos
+
   
-## Código en linea `code` has `back-ticks around` it.
+
 
