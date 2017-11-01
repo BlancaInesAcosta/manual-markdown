@@ -9,6 +9,7 @@ Para convertir un texto en markdown a html basta con
 Los titulos se hacen de varios tamaños 
 el tamaño mas grande es con un signo numeral antes del texto, con dos signos es mas pequeño y 
 asi sucesivamente hasta seis signos numeral.
+
 ```#titulo 1```
 # titulo 1
 ## titulo 2
@@ -20,6 +21,7 @@ asi sucesivamente hasta seis signos numeral.
 Otra forma de hacer un título es:
 
 colocar el título y en la siguiente linea el signo "=" seguidos al mismo tamaño del título.
+
 ```titulo 1```
 
 ```========```
@@ -29,6 +31,7 @@ Este es un titulo 1
 
 
 para el titulo 2 colocar el título y en la siguiente linea el signo "--" seguidos al mismo tamaño del título.
+
 ```titulo 2```
 
 ```---------```
@@ -128,7 +131,7 @@ imagen luego se deja un espacio y entre comillas ("") el nombre o el titulo de l
 Primero creamos la imagen ```![]()``` luego la rodeamos como vínculo 
 ```[![](url de la imagen)](url del vínculo)```
 
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l "gato")
 
  ## Citas en bloque 
 Las citas podemos crearlas con el signo mayor que (>) al inicio de cada línea de la cita. 
@@ -140,8 +143,10 @@ Pablo Picasso
 > El amor es la mayor frescura en la vida.  
 >> este es un segundo nivel
 >>> y este un tercer nivel
+
 ```> El amor es la mayor frescura en la vida.```  
 ```>> este es un segundo nivel```
+
 ```>>> y este un tercer nivel```
 
 ## Bloques de código
@@ -156,7 +161,7 @@ Estos bloques de codigo van entre apostrofes invertidos.
 
 Son comentarios y aclaraciones que se hacen y para no interrumpir 
 la lectura se hacen al final de la página y se relacionan. 
-Se puede agregar un texto de pie de página.```[^2]``
+Se puede agregar un texto de pie de página.```[^2]```
 
 ```[^2]:``` Este es el pie de página.
 
