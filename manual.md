@@ -9,6 +9,7 @@ Para convertir un texto en markdown a html basta con
 Los titulos se hacen de varios tamaños 
 el tamaño mas grande es con un signo numeral antes del texto, con dos signos es mas pequeño y 
 asi sucesivamente hasta seis signos numeral.
+```#titulo 1```
 # titulo 1
 ## titulo 2
 ### titulo 3
@@ -19,15 +20,23 @@ asi sucesivamente hasta seis signos numeral.
 Otra forma de hacer un título es:
 
 colocar el título y en la siguiente linea el signo "=" seguidos al mismo tamaño del título.
+```titulo 1```
+
+```========```
 
 Este es un titulo 1
 =============
 
 
 para el titulo 2 colocar el título y en la siguiente linea el signo "--" seguidos al mismo tamaño del título.
+```titulo 2```
+
+```---------```
 
 titulo 2
 --------
+
+## Negritas, cursivas e italicas
 
 **Negritas** se hace con dos signos asterisco al comienzo de la palabra y dos al final de la palabra.
 
@@ -94,7 +103,15 @@ al hacer clic sobre ella nos lleva a otra página o a otra parte de la misma pá
 Para crear un enlace externo rodeamos el texto para mostrar el vínculo entre corchetes ({}), 
 y la url del enlace entre paréntesis (()).
 
+```[Google](https://www.google.com.co/)```
+
 [Google](https://www.google.com.co/)
+
+Otra manera de colocar un enlace es encerrando la url entrelos caracteres menor (<) que y mayor que (>)
+
+```<https://www.google.com.co/>```
+
+<https://www.google.com.co/>
 
 ## Imagenes
 
@@ -102,12 +119,14 @@ Para colocar imagenes en nuestra página debemos utilizar primero el signo de ad
 luego el signo parentesis cuadrado ([]) y finalmente el (()) en el cual se anota la url de la 
 imagen luego se deja un espacio y entre comillas ("") el nombre o el titulo de la imagen.
 
+```![](url "titulo opcional")```
+
 ![](https://i0.wp.com/www.dondeir.com/wp-content/uploads/2017/02/destinos-con-paisajes-escondidos-en-mexico-12.jpg?ssl=1 "paisaje")
 
 ## Imagenes también con vínculo
 
-Primero creamos la imagen "![]()" luego la rodeamos como vínculo "[![](url)](url) "
-[![]()]()
+Primero creamos la imagen ```![]()``` luego la rodeamos como vínculo 
+```[![](url de la imagen)](url del vínculo)```
 
 [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)
 
@@ -121,10 +140,13 @@ Pablo Picasso
 > El amor es la mayor frescura en la vida.  
 >> este es un segundo nivel
 >>> y este un tercer nivel
+```> El amor es la mayor frescura en la vida.```  
+```>> este es un segundo nivel```
+```>>> y este un tercer nivel```
 
 ## Bloques de código
 
-Estos bloques de codigo van entre
+Estos bloques de codigo van entre apostrofes invertidos.
 
 ```
    bloque de codigo
@@ -132,18 +154,13 @@ Estos bloques de codigo van entre
 
 ## Pie de página
 
-Son comentarios y aclaraciones que se hacen. 
-Se puede agregar un texto de pie de página.[^2]
+Son comentarios y aclaraciones que se hacen y para no interrumpir 
+la lectura se hacen al final de la página y se relacionan. 
+Se puede agregar un texto de pie de página.```[^2]``
 
-[^2]: Este es el pie de página.
+```[^2]:``` Este es el pie de página.
 
-## Líneas
 
-************ esta línea se forma de asteriscos 		
-
------------- esta línea se forma de  giones			
-
-============ esta línea se forma de signos igual seguidos
 
   
 
