@@ -176,7 +176,7 @@ Se puede agregar un texto de pie de página.```[^2]```
 
 ```[^2]:``` Este es el pie de página.
 
-
+Este es un ejemplo de "codigo en línea"
 
   
 
