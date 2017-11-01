@@ -119,7 +119,7 @@ Otra manera de colocar un enlace es encerrando la url entrelos caracteres menor 
 ## Imagenes
 
 Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) 
-luego el signo parentesis cuadrado ([]) y finalmente el (()) en el cual se anota la url de la 
+luego el signo parentesis cuadrado ([]) y finalmente el parentesis (()) en el cual se anota la url de la 
 imagen luego se deja un espacio y entre comillas ("") el nombre o el titulo de la imagen.
 
 ```![](url "titulo opcional")```
@@ -148,6 +148,15 @@ Pablo Picasso
 ```>> este es un segundo nivel```
 
 ```>>> y este un tercer nivel```
+
+Salmo 1.1
+
+> Bienaventurado el varón que no anduvo en consejo de malos,
+
+> Ni estuvo en camino de pecadores,
+
+> Ni en silla de escarnecedores se ha sentado;
+
 
 ## Bloques de código
 
