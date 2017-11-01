@@ -133,7 +133,7 @@ Primero creamos la imagen ```![]()``` luego la rodeamos como vínculo
 
 [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l "gato")
 
-##Vídeo 
+## Vídeo 
 
 Las etiquetas de imagen con una extensión de video se convierten automáticamente a un reproductor de video.
 Las extensiones de vídeo válidas son .mp4, .m4v, .mov, .webm y .ogv.
