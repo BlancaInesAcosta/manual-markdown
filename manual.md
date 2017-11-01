@@ -158,7 +158,7 @@ Salmo 1.1
 > Ni en silla de escarnecedores se ha sentado;
 
 
-## Bloques de código o código en línea
+## Bloques de código
 
 Estos bloques de codigo van entre apostrofes invertidos y es textualmente como escribimos en markdown.
 
