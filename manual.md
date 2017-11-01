@@ -158,13 +158,15 @@ Salmo 1.1
 > Ni en silla de escarnecedores se ha sentado;
 
 
-## Bloques de código
+## Bloques de código o código en línea
 
-Estos bloques de codigo van entre apostrofes invertidos.
+Estos bloques de codigo van entre apostrofes invertidos y es textualmente como escribimos en markdown.
 
 ```
-   bloque de codigo
+   [Google](https://www.google.com.co/)
 ```
+
+y vamos a verlo asi [Google](https://www.google.com.co/) 
 
 ## Pie de página
 
