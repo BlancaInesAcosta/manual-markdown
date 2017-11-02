@@ -10,14 +10,14 @@ Los titulos se hacen de varios tamaños
 el tamaño mas grande es con un signo numeral antes del texto, con dos signos es mas pequeño y 
 asi sucesivamente hasta seis signos numeral.
 
-|como se escribe      ||como se ve     
-|--------------------:||# titulo 1
-|```# titulo 1```     ||
-|```## titulo 2```    ||
-|```### titulo 3```   ||
-|```#### titulo 4```  ||
-|```##### titulo 5``` ||
-|```###### titulo 6```||
+|como se escribe      ||como se ve|     
+|--------------------:||----------|
+|```# titulo 1```     ||# titulo 1|
+|```## titulo 2```    ||## titulo 2|
+|```### titulo 3```   ||### titulo 3|
+|```#### titulo 4```  ||#### tituo 4|
+|```##### titulo 5``` ||##### titulo 5|
+|```###### titulo 6```||###### titulo 6|
 
 ```#titulo 1```
 # titulo 1
