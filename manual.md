@@ -185,6 +185,10 @@ Se puede agregar un texto de pie de página.```[^2]```
 
 Este es un ejemplo de "codigo en línea"
 
-  
+| Modelo | Color   | Precio |
+| ------ |---------| ------:|
+| Globe  | Negro   | 99€    |
+| Scala  | Azul    | 199€   |
+| Palais | Granate | 399€   |
 
 
