@@ -113,9 +113,9 @@ Para hacer listas anidadas se hacen las lista y a las listas anidadas se les col
 dos espacios antes del asterisco.
 Estas listas pueden ser numeradas o no.
 
-`+ niños`
+```+ niños
 
-  `+ Jolman`
+      + Jolman```
 
 ### Danzadores
 + niños
