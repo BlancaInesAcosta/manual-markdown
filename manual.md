@@ -174,6 +174,16 @@ Se puede agregar un texto de pie de página.```[^2]```
 
 ```[^2]:``` Este es el pie de página.
 
+## Fuentes
+[arturogoga.com](https://www.arturogoga.com/tutorial-markdown-manera-simple-de-crear-texto-con-formato-especiales/)
+
+[support](https://support.zendesk.com/hc/es/articles/203691016-Uso-de-Markdown-para-el-formato-de-texto)
+
+[](https://spines.me/es/help/markdown/syntax/)
+
+http://programminghistorian.github.io/ph-submissions/es/traducciones/introduccion-a-markdown
+
+
 
 
 
