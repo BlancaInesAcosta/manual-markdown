@@ -61,11 +61,15 @@ _Italica_ se hace también rodeando la palabra con dos raya al piso
 
 Para hacer listas no numeradas podemos utilizar los signos +, -, *.
 
+Asi se escribe:
+
 `+ Jose Angel`
 
 `- Aura`
 
 `* Ruth`
+
+Y se leeran asi:
 
 ## niños
 + Jose Angel 
