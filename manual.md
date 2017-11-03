@@ -102,6 +102,8 @@ Y se leeran asi:
 ## Listas numeradas
 Para las listas numeradas se coloca el numero, un punto y un espacio.
 
+`1. Leti`
+
 1. Leti
 2. Amparito
 3. Abby
@@ -110,6 +112,9 @@ Para las listas numeradas se coloca el numero, un punto y un espacio.
 Para hacer listas anidadas se hacen las lista y a las listas anidadas se les coloca 
 dos espacios antes del asterisco.
 Estas listas pueden ser numeradas o no.
+
+`+ niños
+  + Jolman`
 
 ### Danzadores
 + niños
