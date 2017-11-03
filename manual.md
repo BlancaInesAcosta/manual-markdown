@@ -41,19 +41,35 @@ titulo 2
 
 ## Negritas, cursivas e italicas
 
+`**Negritas**`
+
 **Negritas** se hace con dos signos asterisco al comienzo de la palabra y dos al final de la palabra.
+
+`__Negrita__`
 
 __Negrita con 2 rayas al piso__
 
-***Esto es negrita y cursiva con tres asteriscos a cada lado***
+`***Negrita y cursiva***`
+
+***Negrita y cursiva con tres asteriscos a cada lado***
+
+`___Negrita y cursiva___`
 
 ___Esto es negrita y cursiva con tres rayas al piso a cada lado.___
 
+`*Cursiva*`
+
 *Cursiva con un asterisco a cada lado*
+
+`_Cursiva_`
 
 _Cursiva con una raya al piso_
 
+`*Italicas*`
+
 *Italicas* se hace con un asterisco a cada lado del  texto.
+
+`_Italica_`
 
 _Italica_ se hace también rodeando la palabra con dos raya al piso
 
