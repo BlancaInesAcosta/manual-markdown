@@ -47,23 +47,23 @@ titulo 2
 
 `__Negrita__`
 
-__Negrita con 2 rayas al piso__
+__Negrita__ con 2 rayas al piso
 
 `***Negrita y cursiva***`
 
-***Negrita y cursiva con tres asteriscos a cada lado***
+***Negrita y cursiva*** con tres asteriscos a cada lado
 
 `___Negrita y cursiva___`
 
-___Esto es negrita y cursiva con tres rayas al piso a cada lado.___
+___Negrita y cursiva___ con tres rayas al piso a cada lado.
 
 `*Cursiva*`
 
-*Cursiva con un asterisco a cada lado*
+*Cursiva* con un asterisco a cada lado.
 
 `_Cursiva_`
 
-_Cursiva con una raya al piso_
+_Cursiva_ con una raya al piso
 
 `*Italicas*`
 
