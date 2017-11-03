@@ -59,7 +59,13 @@ _Italica_ se hace también rodeando la palabra con dos raya al piso
 
 ## Listas 
 
-Para hacer listas no numeradas podemos utilizar los signos +, -, *
+Para hacer listas no numeradas podemos utilizar los signos +, -, *.
+
+`+ Jose Angel`
+
+`- Aura`
+
+`* Ruth`
 
 ## niños
 + Jose Angel 
