@@ -98,10 +98,6 @@ Estas listas pueden ser numeradas o no.
 **Enlace** es un texto o una imagen que al pasar el cursor por encima se forma una manita y 
 al hacer clic sobre ella nos lleva a otra página o a otra parte de la misma página.
 
-### Hay dos clases de enlaces:
-
-**Enlace interno** es cuando nos lleva a otra parte de la misma página. 
-
 **Enlace externo** es cuando nos lleva a otra página.
 Para crear un enlace externo rodeamos el texto para mostrar el vínculo entre corchetes ({}), 
 y la url del enlace entre paréntesis (()).
@@ -133,17 +129,16 @@ Primero creamos la imagen ```![]()``` luego la rodeamos como vínculo
 
 [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWZKLIsftmkQsaEI1KM4t4fTgSeRi2MmRF0-8DQ0M6V-LqA1l "gato")
 
-## Vídeo 
-
-Las etiquetas de imagen con una extensión de video se convierten automáticamente a un reproductor de video.
-Las extensiones de vídeo válidas son .mp4, .m4v, .mov, .webm y .ogv.
-
-![](img/Dios Te Ama.mp4)
-
  ## Citas en bloque 
 Las citas podemos crearlas con el signo mayor que (>) al inicio de cada línea de la cita. 
 Podemos crear un bloque qnnidado aumentando un signo (>).
 Las citas en bloque deben comenzar y terminar con una línea en blanco.
+asi se escribe:
+
+```> El amor es la mayor frescura en la vida.```  
+```>> este es un segundo nivel```
+
+```>>> y este un tercer nivel```
 
 Pablo Picasso
 
@@ -151,10 +146,6 @@ Pablo Picasso
 >> este es un segundo nivel
 >>> y este un tercer nivel
 
-```> El amor es la mayor frescura en la vida.```  
-```>> este es un segundo nivel```
-
-```>>> y este un tercer nivel```
 
 Salmo 1.1
 
@@ -185,10 +176,6 @@ Se puede agregar un texto de pie de página.```[^2]```
 
 
 
-| Modelo | Color   | Precio |
-| ------ |---------| ------:|
-| Globe  | Negro   | 99€    |
-| Scala  | Azul    | 199€   |
-| Palais | Granate | 399€   |
+
 
 
