@@ -26,8 +26,8 @@ colocar el título y en la siguiente linea el signo "=" seguidos al mismo tamañ
 
 ```========```
 
-Este es un titulo 1
-=============
+titulo 1
+========
 
 
 para el titulo 2 colocar el título y en la siguiente linea el signo "--" seguidos al mismo tamaño del título.
