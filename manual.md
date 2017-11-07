@@ -141,18 +141,19 @@ Estas listas pueden ser numeradas o no.
 al hacer click sobre ella nos lleva a otra página o a otra parte de la misma página.
 
 **Enlace externo** es cuando nos lleva a otra página.
-Para crear un enlace externo escribimos parentesis cuadrados []y en medio de ellos la palabra
-que veremos en nuestra página y que al hacer click nos llevara a la otra página, 
-luego colocamos parentesis ()y la url del enlace entre los paréntesis.
+Para crear un enlace externo escribimos parentesis cuadrados [] y en medio de ellos la palabra
+que veremos en nuestra página y que al hacer click nos llevara a la otra página. 
+Luego colocamos parentesis () y la url del enlace va entre los paréntesis.
 La URL es la ruta que se encuentra en la caja de texto ubicada en la barra de navegación del navegador, 
 sirve para ubicar de manera precisa en un servidor, cualquier recurso: una imagen, un video o una página web.
 
 `[texto o imagen donde haremos click](url de la página del enlace)`
+
 ```[Google](https://www.google.com.co/)```
 
 [Google](https://www.google.com.co/)
 
-Otra manera de colocar un enlace es encerrando la url entrelos caracteres menor que (<) y mayor que (>)
+Otra manera de colocar un enlace es escribir la url entre los caracteres menor que (<) y mayor que (>).
 
 ```<https://www.google.com.co/>```
 
@@ -162,7 +163,8 @@ Otra manera de colocar un enlace es encerrando la url entrelos caracteres menor 
 
 Para colocar imagenes en nuestra página debemos utilizar primero el signo de admiración (!) 
 luego el signo parentesis cuadrado ([]) y finalmente el parentesis (()) en el cual se anota la url de la 
-imagen luego se deja un espacio y entre comillas ("") el nombre o el titulo de la imagen.
+imagen luego se deja un espacio y entre comillas ("") el nombre o el titulo de la imagen y este titulo es opcional.
+Cuando nosotros pasamos el cursor por encima de la imagen vemos el titulo.
 
 ```![](url "titulo opcional")```
 
@@ -175,7 +177,7 @@ Tenemos que tener la imagen `![](url de la imagen)`
 y el enlace `[](url del enlace)`
 
 Para que la imagen nos sirva de enlace tenemos que unirlas.
-Entre los parentesis cuadrados del enlace va la imagen asi
+Entre los parentesis cuadrados del enlace va la imagen asi:
 
 ```[![](url de la imagen)](url del enlace)```
 
@@ -184,6 +186,7 @@ Entre los parentesis cuadrados del enlace va la imagen asi
  ## Citas en bloque 
 Las citas podemos crearlas con el signo mayor que (>) al inicio de cada línea de la cita. 
 Podemos crear un bloque qnnidado aumentando un signo (>).
+
 Las citas en bloque deben comenzar y terminar con una línea en blanco.
 asi se escribe:
 
@@ -210,8 +213,10 @@ Salmo 1.1
 
 ## Bloques de código
 
-Estos bloques de codigo van entre apostrofes invertidos ``n`` y es 
+Estos bloques de codigo van entre apostrofes invertidos ``código`` y es 
 textualmente como escribimos en markdown.
+Código es una serie de símbolos que por separado no representan nada, pero al 
+combinarlos pueden generar un lenguaje comprensible.
 
 ```
    [Google](https://www.google.com.co/)
