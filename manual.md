@@ -46,23 +46,23 @@ titulo 2
 
 `__Negrita__`
 
-__Negrita__ se hace con con 2 raya al piso al comienzo de la palabra y dos al final.
+__Negrita__ se hace con 2 raya al piso al comienzo de la palabra y dos al final.
 
 `***Negrita y cursiva***`
 
-***Negrita y cursiva*** se hace con con tres asteriscos al comienzo de la palabra y tres al final.
+***Negrita y cursiva*** se hace con tres asteriscos al comienzo de la palabra y tres al final.
 
 `___Negrita y cursiva___`
 
-___Negrita y cursiva___ se hace con con tres rayas al piso al comienzo de la palabra y tres al final.
+___Negrita y cursiva___ se hace con tres rayas al piso al comienzo de la palabra y tres al final.
 
 `*Cursiva*`
 
-*Cursiva* se hace con con un asterisco al comienzo de la palabra y uno al final.
+*Cursiva* se hace con un asterisco al comienzo de la palabra y uno al final.
 
 `_Cursiva_`
 
-_Cursiva_ se hace con con una raya al piso al comienzo de la palabra y una al final.
+_Cursiva_ se hace con una raya al piso al comienzo de la palabra y una al final.
 
 `*Italicas*`
 
@@ -80,8 +80,8 @@ debe ir separada de la otra por una linea en blanco.
 ## Listas no numeradas 
 
 Para hacer listas no numeradas podemos utilizar los signos +, -, *.
-Se coloca el signo y un espacio antes de la palabra a listar.
 
+Se coloca el signo y un espacio antes de la palabra a listar.
 
 Asi se escribe:
 
@@ -123,12 +123,10 @@ segundo nivel utilizamos los mismos signos o numeros con 4 espacios antes del si
 o del numero.
 Estas listas pueden ser numeradas o no.
 
-
 `+ niños`
 
       `+ Jolman`
       
-
 ### Danzadores
 + niños
   + Jolman
@@ -173,7 +171,9 @@ imagen luego se deja un espacio y entre comillas ("") el nombre o el titulo de l
 ## Imagenes también con Enlace
 Como ya dijimos podemos usar una imagen como enlace.
 Tenemos que tener la imagen `![](url de la imagen)`
+
 y el enlace `[](url del enlace)`
+
 Para que la imagen nos sirva de enlace tenemos que unirlas.
 Entre los parentesis cuadrados del enlace va la imagen asi
 
