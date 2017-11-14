@@ -38,7 +38,7 @@ para el titulo 2 colocar el título y en la siguiente linea el signo "--" seguid
 titulo 2
 --------
 
-## Negritas, cursivas e italicas
+## Negritas, cursivas
 
 `**Negritas**`
 
@@ -58,11 +58,11 @@ ___Negrita y cursiva___ se hace con tres rayas al piso al comienzo de la palabra
 
 `*Italicas*`
 
-*Italicas* se hace con un asterisco al comienzo de la palabra y uno al final.
+*Cursivas* se hace con un asterisco al comienzo de la palabra y uno al final.
 
-`_Italica_`
+`_Cursivas_`
 
-_Italica_ se hace con dos raya al piso al comienzo de la palabra y dos al final.
+_Cursivas_ se hace con dos raya al piso al comienzo de la palabra y dos al final.
 
 ## Listas
 
