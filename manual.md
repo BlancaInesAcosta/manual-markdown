@@ -56,7 +56,7 @@ __Negrita__ se hace con 2 raya al piso al comienzo de la palabra y dos al final.
 
 ___Negrita y cursiva___ se hace con tres rayas al piso al comienzo de la palabra y tres al final.
 
-`*Italicas*`
+`*Cursivas*`
 
 *Cursivas* se hace con un asterisco al comienzo de la palabra y uno al final.
 
